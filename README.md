@@ -30,7 +30,6 @@ tic-tac-toe/
 ├── index.html # Main game interface
 ├── style.css # Styling and responsiveness
 └── script.js # Game logic and user interaction
-
 ---
 
 ## ✅ How to Run
