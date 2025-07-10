@@ -24,12 +24,15 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. De
 ---
 
 ## 📂 Project Structure
-
+```
 tic-tac-toe/
 │
-├── index.html # Main game interface
-├── style.css # Styling and responsiveness
-└── script.js # Game logic and user interaction
+├── index.html         # Main HTML file – structure of the game
+├── style.css          # CSS file – styling and responsive layout
+├── script.js          # JavaScript file – core game logic
+├── README.md          # Project documentation and usage instructions
+```
+
 ---
 
 ## ✅ How to Run
